@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\c#\ARRYLİST\ARRYLİST\obj\Debug\ARRYLİST.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\ARRYLİST\ARRYLİST\obj\Debug\ARRYLİST.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\c#\ARRYLİST\ARRYLİST\obj\Debug\ARRYLİST.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\ARRYLİST\ARRYLİST\bin\Debug\ARRYLİST.exe.config
+C:\Users\USER\Desktop\c#\ARRYLİST\ARRYLİST\bin\Debug\ARRYLİST.exe
+C:\Users\USER\Desktop\c#\ARRYLİST\ARRYLİST\bin\Debug\ARRYLİST.pdb
+C:\Users\USER\Desktop\c#\ARRYLİST\ARRYLİST\obj\Debug\ARRYLİST.exe
+C:\Users\USER\Desktop\c#\ARRYLİST\ARRYLİST\obj\Debug\ARRYLİST.pdb
